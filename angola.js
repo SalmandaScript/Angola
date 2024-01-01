@@ -88,6 +88,17 @@ color: "teal"
 });
 
 
+//function to open previous page
+function algeria(){
+open("https://salmandascript.github.io/Algeria/Algeria.html");
+}
+
+//function to open next page
+function benin(){
+open("https://salmandascript.github.io/Benin/Benin.html");
+}
+
+
 
 //quizz questions code 
 function checkAnswer()
